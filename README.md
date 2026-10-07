@@ -1,6 +1,6 @@
 <!-- Banner Image (আপনার পছন্দমতো একটি ব্যানার ইমেজের লিঙ্ক এখানে দিন) -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="Banner">
+  <img src="./banner.jpg" width="100%" alt="Banner">
 </p>
 
 # Hi there 👋, I'm Touhid Ansary
