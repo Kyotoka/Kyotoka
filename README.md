@@ -36,6 +36,6 @@ I am an undergraduate student currently in my Honours 1st year, diving deep into
 ---
 
 ### 🌐 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
-- **Twitter/X:** [Your Twitter Profile](https://twitter.com)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Working on it](https://linkedin.com)
+- **Twitter/X:** [Working on it](https://twitter.com)
+- **Email:** touhidansary44@gmail.com
